@@ -56,7 +56,7 @@ NOV 2020 - PRESENT
 - Professional Web Design of the Ecommerces.
 
 
-## **[Text.js](https://henryjperez.github.io/text-js/), Project
+## **[Text.js](https://henryjperez.github.io/text-js/), Project**
 
 JUN 2020 - JUL 2020
 
