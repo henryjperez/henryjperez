@@ -51,9 +51,9 @@ I like to learn and I'm really good at it, plus I like to work hard and smart.
 ### **Deepcompany LLC, EEUU** *— Frontend Developer*
 NOV 2020 - PRESENT
 
-- Mantenimiento total de la plataforma de creación de E-commerce, Deepyshop.
-- Coordinar todos los elementos de diseño con el equipo de artes y diseño.
-- Maquetación profesional de los E-commerces.
+- Maintenance of the whole Ecommerce builder platform, Deepyshop.
+- Coordinate all elements of design with the team of arts and design.
+- Professional Web Design of the Ecommerces.
 
 
 ## **[Text.js](https://henryjperez.github.io/text-js/), Project
@@ -62,7 +62,7 @@ JUN 2020 - JUL 2020
 
 A real time chat.
 
-- Proyecto Full Stack, con Javascript.
+- A full stack project with Javascript.
 - React, Express, MongoDB y Socket.io.
 - Dark Mode.
 
@@ -75,7 +75,7 @@ A real time chat.
 
 OCT 2015 - JAN 2019, Distrito Capital
 
-Es la automatización y medición de los procesos por medio de sistemas.
+It’s the automation and measurement of the processes through systems.
 
 <!--
 **henryjperez/henryjperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
