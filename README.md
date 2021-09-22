@@ -71,7 +71,7 @@ A real time chat.
 
 ## EDUCATION 
 
-### **IUT Federico Rivero Palacios** *— Instrumentación y Control*
+### **IUT Federico Rivero Palacios** *— Instrumentación and Control*
 
 OCT 2015 - JAN 2019, Distrito Capital
 
