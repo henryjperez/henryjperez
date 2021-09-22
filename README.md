@@ -48,7 +48,7 @@ I like to learn and I'm really good at it, plus I like to work hard and smart.
 
 ## Experience
 
-### **Deepcompany LLC, EEUU** *— Frontend Developer*
+### **[Deepcompany LLC](https://www.deepcompany.com), EEUU** *— Frontend Developer*
 NOV 2020 - PRESENT
 
 - Maintenance of the whole Ecommerce builder platform, Deepyshop.
