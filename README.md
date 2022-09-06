@@ -6,7 +6,7 @@
 - I like to teach and share my knowledge
 
 ## Skills
----
+
 ## Programming Languages
 - Javascript.
 - Typescript.
@@ -40,7 +40,6 @@
 
 ## Experience
 
----
 
 ### **[Deepcompany LLC](https://www.deepcompany.com), EEUU** *— Frontend Developer*
 NOV 2020 - DIC 2021
@@ -56,10 +55,10 @@ DIC 2021 - PRESENT
 - Working in the Frontend team of Dorsa
 - Improving UI, UX and the whole Frontend architecture of the project
 
+---
 
 ### Projects
 
----
 
 #### **[Software SICOSS](https://apps.apple.com/no/app/si-m%C3%B3vil/id1500641662), Mexico** *— Frontend Developer*
 Nov 2021 - Dec 2021
@@ -85,7 +84,6 @@ A real time chat.
 
 ## EDUCATION 
 
----
 
 ### **[Platzi](https://platzi.com)** *— Computer Software Engineering*
 JAN 2022 - PRESENT
@@ -100,7 +98,7 @@ It’s the automation and measurement of the processes through systems.
 
 
 ## Contact
----
+
 ### [LinkedIn](https://www.linkedin.com/in/henryjperez/)
 ### [Github](https://github.com/henryjperez)
 ### [Hashnode](https://henryjperez.hashnode.dev/)
