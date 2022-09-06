@@ -41,6 +41,14 @@
 ## Experience
 
 
+### **[Elaniin - Tech Company](https://elaniin.com/), El Salvador** *— Frontend Developer*
+DIC 2021 - PRESENT
+
+- Working on the Dorsa project, a medical assistant device
+- Working in the Frontend team of Dorsa
+- Improving UI, UX and the whole Frontend architecture of the project
+
+
 ### **[Deepcompany LLC](https://www.deepcompany.com), EEUU** *— Frontend Developer*
 NOV 2020 - DIC 2021
 
@@ -48,12 +56,6 @@ NOV 2020 - DIC 2021
 - Coordinate all elements of design with the team of arts and design.
 - Professional Web Design of the E-commerce.
 
-### **[Elaniin - Tech Company](https://elaniin.com/), El Salvador** *— Frontend Developer*
-DIC 2021 - PRESENT
-
-- Working on the Dorsa project, a medical assistant device
-- Working in the Frontend team of Dorsa
-- Improving UI, UX and the whole Frontend architecture of the project
 
 ---
 
