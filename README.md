@@ -64,7 +64,7 @@ NOV 2020 - DIC 2021
 ## **[Phone House](https://www.phonehouse.es), Spain** *— Frontend Developer*
 Nov 2022 - Feb 2023
 
-An e-commerce platform made. What I would like to highlight is how quickly I managed to learn a new technology, in this case Shopify, to be able to work on this project.
+An e-commerce platform. What I would like to highlight is how quickly I managed to learn a new technology, in this case Shopify, to be able to work on this project.
 
 ## **[Software SICOSS](https://apps.apple.com/no/app/si-m%C3%B3vil/id1500641662), Mexico** *— Frontend Developer*
 Nov 2021 - Dec 2021
