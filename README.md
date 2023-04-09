@@ -11,6 +11,7 @@
 - Javascript.
 - Typescript.
 - Python.
+- Go.
 
 ## Frontend
 - **React.js**
