@@ -63,6 +63,12 @@ NOV 2020 - DIC 2021
 
 # Projects (Featured)
 
+## **[dev.henryjperez.com](https://dev.henryjperez.com/)** *— Technical Blog*
+Feb 2023 - Present
+
+## **[Hackerrank Challenges](https://github.com/henryjperez/hackerrank_challenges)** *— Programming Challenges*
+Jan 2023 - Present
+
 ## **[Phone House](https://www.phonehouse.es), Spain** *— Frontend Developer*
 Nov 2022 - Feb 2023
 
