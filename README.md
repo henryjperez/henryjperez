@@ -18,10 +18,10 @@
 - **React Native**
 - Next.js
 - **Redux**
-- Technical SEO
-- Accessibility
 - HTML Semantics
-- CSS / SASS
+- CSS
+- SASS
+- Jest
 
 ## Backend
 - Node.js
@@ -31,6 +31,7 @@
 - GraphQL
 - REST
 - Docker
+- GitHub Actions
 
 
 ## Languages
@@ -104,7 +105,7 @@ A real time chat.
 
 
 ## **[Platzi](https://platzi.com)** *— Computer Software Engineering*
-JAN 2022 - PRESENT
+FEB 2020 - PRESENT
 
 The biggest online education platform in the Spanish world
 
