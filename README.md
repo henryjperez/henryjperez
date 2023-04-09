@@ -66,7 +66,7 @@ NOV 2020 - DIC 2021
 ## **[dev.henryjperez.com](https://dev.henryjperez.com/)** *— Technical Blog*
 Feb 2023 - Present
 
-I know you saw the URL of my profile, but I want to say that this is my personal blog for sharing technical information. Although it takes a lot of effort, I enjoy sharing things that I find interesting.
+I know you saw the [URL](https://dev.henryjperez.com/) of my profile, but I want to say that this is my personal blog for sharing technical information. Although it takes a lot of effort, I enjoy sharing things that I find interesting.
 
 I believe if you teach you learn twice. And it's great to help others with what you can do.
 
