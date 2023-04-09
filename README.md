@@ -27,10 +27,10 @@
 - Node.js
 - Express.js
 - MongoDB
-- MySQL
 - GraphQL
-- REST
+- REST API
 - Docker
+- Linux
 - GitHub Actions
 
 
