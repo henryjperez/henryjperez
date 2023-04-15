@@ -51,7 +51,7 @@ DIC 2021 - PRESENT
 - I adapted to every project and I learned new technologies quickly
 
 
-## **[Deepcompany LLC](https://www.deepcompany.com), EEUU** *— Frontend Developer*
+## **[Deepcompany LLC](https://www.deepcompany.com), USA** *— Frontend Developer*
 NOV 2020 - DIC 2021
 
 - Maintenance of the whole E-commerce builder platform, Deepyshop
