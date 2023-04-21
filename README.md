@@ -6,7 +6,7 @@ I'm a goal driven developer with 3 years of experience, autonomous and very pass
 
 Skills: REACT JS / REACT NATIVE / JS / TS / HTML / CSS / SASS
 
-- 🔭 I’m currently working on Tech articles, Codding Challenges and my Personal Website (Comming soon...) 
+- 🔭 I’m currently working on Tech articles, Coding Challenges and my Personal Website (Comming soon...) 
 - 📫 How to reach me: henryjosiasperezrangel@gmail.com 
 - ⚡ Fun fact: I like every expression of art: from drawing to dancing 
 
