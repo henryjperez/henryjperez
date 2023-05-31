@@ -25,7 +25,6 @@ Feb 2023 - Present
 ## **[Hackerrank](https://github.com/henryjperez/hackerrank_challenges)** *— Programming Challenges*
 Jan 2023 - Present
 
-This is a personal project. And it's about solving programming challenges for a platform called [Hackerrank](https://www.hackerrank.com/). I solve them in 3 different languages: Typescript, Python & Go.
 
 
 ## **[Phone House](https://www.phonehouse.es), Spain** *— Frontend Developer*
